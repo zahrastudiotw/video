@@ -1,0 +1,9 @@
+{
+  "name": "ZAHRA STUDIO",
+  "short_name": "ZAHRA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2efe8",
+  "theme_color": "#f2efe8",
+  "icons": []
+}
